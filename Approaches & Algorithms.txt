@@ -1,0 +1,14 @@
+
+This list consists of all the important or new approaches/questions, algorithms learnt till now .
+
+1. Making an extra array for storing indexes
+2. Check_array[containing Boolean values] approach
+3. Sliding Window/Two pointer approach
+4. Kadane's Algorithm - for finding max subarray sum, Whenever,we get a negative sum we initialize the sum to 0 again
+5. Max Circular Subarray Sum
+6. Bit Manipulation
+7. Sieve of Eratosthenes - to print prime nos., prime factorization
+8. Inclusion-Exclusion Principle - finding no. of ways of something
+9. Recursion - last wala chahiye then call pehle and vice-versa
+10. Recursion - shorten the string/array in each call
+11. Backtracking
