@@ -11,4 +11,5 @@ This list consists of all the important or new approaches/questions, algorithms 
 8. Inclusion-Exclusion Principle - finding no. of ways of something
 9. Recursion - last wala chahiye then call pehle and vice-versa
 10. Recursion - shorten the string/array in each call
-11. Backtracking
+11. Backtracking 
+12. Floyd's Algorithm / Hare & Tortoise Algorithm - to detect & remove cycle in linked list
