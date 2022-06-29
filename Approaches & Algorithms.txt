@@ -39,3 +39,4 @@ This list consists of all the important or new approaches/questions, algorithms 
 11. Backtracking 
 12. Floyd's Algorithm / Hare & Tortoise Algorithm - to detect & remove cycle in linked list
 13. Making use of recursion & the function call stack to save space 
+14. Maths (to reduce overflow) # (a*b)%n = (a%n * b%n) % n
