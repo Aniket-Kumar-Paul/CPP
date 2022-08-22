@@ -8,6 +8,7 @@ This list consists of all the important or new approaches/questions, algorithms 
 5. Max Circular Subarray Sum
 
 6. Bit Manipulation
+    |_ (n & (n-1))==0 => n is a power of 2
     |_ use "a = num >> 1" instead of "a = num / 2" in loops (faster)
     |_ # last bit of num = 0 => even, = 1 => odd [ Use Masking (here, & with 1) to find last bit ] -> Use "num && 1 == 0" instead of "num % 2 == 0" to check even
     |_ Swap a & b -> a = a ^ b -> b = a ^ b -> a = a ^ b [ ^ => XOR ]
